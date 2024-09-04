@@ -68,7 +68,7 @@ role_id: INTEGER NOT NULL (Foreign key referencing Role)
 manager_id: INTEGER (Foreign key referencing Employee, allows for NULL if no manager)
 
 ## Walkthrough Video
-
+https://drive.google.com/file/d/1fCg2Ds4Hz4z3kG0vz1BwFu6RfkgWCtF9/view?usp=drive_link
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
